@@ -1,12 +1,12 @@
-package exercicio3;
+package soma;
 
 import java.util.LinkedList;
 
-public class Ex3 {
+public class ExercicioSoma {
 
 	public static void main(String[] args) {
 		
-		// Declaração da lista encadeada
+		// DeclaraÃ§Ã£o da lista encadeada
 		LinkedList<Integer> ls = new LinkedList<Integer>();
 		
 		// Adicionando os elementos na lista
